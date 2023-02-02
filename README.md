@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <div align="center">
   <h1>Welcome <br>I'm <stron>Ange Tia</strong> | FullStack Web Developer</h1>
 </div>
