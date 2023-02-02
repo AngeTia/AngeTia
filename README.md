@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
 
 Here are some ideas to get you started:
 
@@ -31,4 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - Website : https://www.tia-portfolio.com
+
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
 
