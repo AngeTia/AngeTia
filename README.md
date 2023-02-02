@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gompou-tia-gbongu%C3%A9-ange-9713b5164/">
