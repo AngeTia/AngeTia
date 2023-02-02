@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://tenor.com/fr/view/hello-lien-hello-dog-waving-gif-12080204" width="100">
   <h1>Hi Welcome <br>I'm Ange Tia | Web Dev FullStack</h1>
 </div>
 <div id="header" align="center">
