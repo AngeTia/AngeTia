@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?AngeTia=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
