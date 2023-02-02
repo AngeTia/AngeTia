@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - Website : https://www.tia-portfolio.com
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
+</div>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeTia&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
 
