@@ -1,5 +1,5 @@
 <div align="center">
-  <h1># 👋 Welcome! | I'm Ange Tia</h1>
+  <h1>👋 Welcome! | I'm Ange Tia</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
