@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Welcome! | I'm Ange Tia</h1>
-  <h2>Good code does one thing and does it well ! <br>Always ready to work on projects with other teams</h2>
+  <h1>👋 Welcome! | I'm Ange Tia</h1><br>
+  <h2>Good code does one thing and does it well !</h2>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
