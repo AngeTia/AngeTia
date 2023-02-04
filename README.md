@@ -21,7 +21,7 @@
 </div>
 <div align="center">
   <h1>Portfolio</h1>
-  <p>https://www.tia-portfolio.com</p>
+  <p>https://www.tia-portfolio.com</p> <br> <p>https://github.com/TrainingTia</p>
 </div>
 <div align="center">
   <h1>Technologies</h1>
