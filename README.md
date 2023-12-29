@@ -20,10 +20,6 @@
   </a>
 </div>
 <div align="center">
-  <h1>Portfolio</h1>
-  <p>https://www.tia-portfolio.com</p> <br>
-</div>
-<div align="center">
   <h1>Technologies</h1>
 </div>
 <div align="center">
