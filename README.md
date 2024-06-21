@@ -13,9 +13,7 @@
   <p>
     <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" alt="SOC Analyst" width="50" height="50"/> SOC Analyst
     &nbsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/ios-filled/50/000000/spy.png" alt="Red Team Operator" width="50" height="50"/> Red Team Operator
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Penetration Tester" width="50" height="50"/> Penetration Tester
+    <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Penetration Tester" width="50" height="50"/> Red Team Operator | Penetration Tester
   </p>
 </div>
 <div id="header" align="center">
