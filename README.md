@@ -8,6 +8,16 @@
 <div align="center">
   <h1>FullStack Developer</h1>
 </div>
+<div align="center">
+  <h1>CyberSecurity Enthusiast</h1>
+  <p>
+    <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" alt="SOC Analyst" width="50" height="50"/> SOC Analyst
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/50/000000/spy.png" alt="Red Team Operator" width="50" height="50"/> Red Team Operator
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Penetration Tester" width="50" height="50"/> Penetration Tester
+  </p>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -37,7 +47,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="50" height="50"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
 </div>
 <br><br>
 
